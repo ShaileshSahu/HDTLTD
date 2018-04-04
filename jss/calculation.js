@@ -162,7 +162,7 @@ var per =    $("#sgst").val().replace("%","");
 
 
 
-    $('#total_words').html(""+inWords(n)+);
+    $('#total_words').html(""+inWords(n));
 
 
 }
